@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://gyb333@192.168.216.130:22/usr/bin/python3" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://gyb333@192.168.216.130:22/usr/bin/python3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/usr/local/lib/python3.5/dist-packages/django/bin" local="$PROJECT_DIR$" web="/usr/local/lib/python3.5/dist-packages/django/bin" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
